@@ -1,0 +1,42 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+  
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+  
+ }
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+ }
+
+ nav li{
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 25px;
+    display: inline-block;
+    padding: 10px;
+    width:18%;
+    margin-right: 15px;
+ }
+
+ main img{
+    width:24%;
+    box-sizing: border-box;
+    padding:15px;
+    border:6px dashed green;
+    margin:0;
+ }
+
+ p{
+    line-height:2;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:darkslategray;
+    background-color: bisque;
+    margin-bottom: 10px;
+    text-align: center;
+ }
